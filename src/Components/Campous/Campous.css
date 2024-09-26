@@ -1,0 +1,18 @@
+.campous{
+    margin:-30px;
+    width: 90%;
+    text-align: center;
+    /* justify-content: center; */
+}
+.gallery{
+    display: flex;
+   align-items: center;
+   /* justify-content: space-between; */
+   /* margin-bottom:80px; */
+}
+.gallery img{
+    width:28%;
+    border-radius: 10px;
+    margin: 20px;
+    margin-bottom:40px;
+}
